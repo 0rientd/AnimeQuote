@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C63FF4626F626A40056D715 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2C86E77C26F5996F00B58420 /* AnimeQuotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimeQuotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C86E77F26F5996F00B58420 /* AnimeQuotesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimeQuotesApp.swift; sourceTree = "<group>"; };
 		2C86E78126F5996F00B58420 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -38,6 +39,7 @@
 		2C86E77326F5996F00B58420 = {
 			isa = PBXGroup;
 			children = (
+				2C63FF4626F626A40056D715 /* README.md */,
 				2C86E77E26F5996F00B58420 /* AnimeQuotes */,
 				2C86E77D26F5996F00B58420 /* Products */,
 			);
